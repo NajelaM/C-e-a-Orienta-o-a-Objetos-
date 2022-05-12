@@ -1,0 +1,11 @@
+Série C# para Iniciantes
+
+ Série C# para Iniciantes é indicada para quem quer dar os primeiros passos em C# e pretende aprender mais sobre a linguagem.
+ Conhecimentos do dia-a-dia explicados de forma simples e fácil.
+ Hoje em dia o C# é uma das linguagens mais utilizadas no mundo e a preferida entre os programadores .Net.
+
+Os pré requisitos:
+
+Ter alguma versão do Visual Studio instalada (2008 ou superior);
+Ter um pouco de conhecimento de lógica de programação;
+Força de vontade 🙂

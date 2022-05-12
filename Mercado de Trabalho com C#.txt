@@ -1,0 +1,11 @@
+Mercado de trabalho
+
+Você pode escolher uma linguagem de programação que mais te agrade, mas também é importante observar como anda o mercado de trabalho.
+ O C# é uma das linguagens mais utilizadas no mundo e o mercado está em alta para essa linguagem.
+Segundo o site TIOBE (Programming Community Index Definition), o C# é uma das 5 linguagens mais utilizadas no mundo! 
+Além disso, grandes empresas utilizam o C# em seus produtos, empresas como Microsoft (em uma infinidade de soluções: 
+desde soluções Web até soluções mobile multiplataforma através do Xamarin), Amazon, StackOverflow (toda a stack web do StackOverflow é 
+construída em cima de C# e .NET) e nós aqui no TreinaWeb (algumas de nossas aplicações foram escritas com C# e .NET Framework Full e .NET Core). 
+Você pode até mesmo desenvolver jogos com C# através da Unity.
+Então, se você estudá-la e se especializar, certamente não ficará fora do mercado. =D
+

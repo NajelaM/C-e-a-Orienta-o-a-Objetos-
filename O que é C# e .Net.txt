@@ -1,0 +1,31 @@
+O QUE É C# E .NET
+
+UM POUCO SOBRE A HISTÓRIA DO C# E .NET
+
+Entender um pouco da história do C# e do .Net é essencial para enxergar os motivos que a levaram ao
+sucesso.
+No final da década de 1990 a Microsoft tinha diversas tecnologias e linguagens de programação para
+resolver muitos  problemas  diferentes. Toda  vez  que  um  programador  precisava migrar  para uma  nova
+linguagem,  era  necessário  aprender tanto  a  nova linguagem  quanto  suas  bibliotecas  e  conceitos.  Para
+solucionar esses problemas, a Microsoft recorreu à linguagem Java.
+O Java agradou os engenheiros da Microsoft pois com ela podíamos construir programas que eram
+independentes do ambiente de execução, além de possuir diversas bibliotecas com soluções prontas para
+diversos  problemas.  Para  lançar  produtos  baseados  no  Java,  a  Microsoft  assinou  um  acordo  de
+licenciamento com a Sun para utilizar o Java em ambiente Windows.
+Porém,  a  linguagem  Java  possuía  um  grave  problema:  ela  não  se  comunicava  bem  com  as
+bibliotecas de código nativo (código de máquina) que já existiam. Para resolver isso, a Microsoft decidiu
+criar  a  sua  própria  implementação  do  Java  chamado  J++,  que  possuía  extensões  proprietárias  que
+resolviam  o  problema  de  comunicação  com  o  código  nativo  existente.  Para  o  desenvolvimento  dessa
+nova implementação do Java, a Microsoft contratou um engenheiro chamado Anders Hejlsberg, um dos
+principais nomes por trás do Delphi.
+O  J++ era  uma  versão  da linguagem  Java  que  só  podia  ser executada  no ambiente Microsoft. Seu
+código  não  podia  ser  executado  em mais  nenhum  ambiente  Java,  o  que  violava  o licenciamento  feito
+com a Sun e, por isso, a Microsoft foi processada. Uma das mais conhecidas batalhas judiciais da época.
+Sem  o  J++, a Microsoft  foi  obrigada a  repensar  sua estratégia  sobre como lidar com as  diferentes
+linguagens  e  tecnologias  utilizadas  internamente.  A  empresa  começou  a  trabalhar  em  um  nova
+plataforma  que  seria  a  base  de todas  as  suas  soluções,  que  posteriormente  foi  chamada  de .Net.  Esse
+novo  ambiente  de  desenvolvimento  da  Microsoft  foi  desde  o  início  projetado  para  trabalhar  com
+diversas  linguagens  de  programação,  assim  diversas  linguagens  diferentes  compartilhariam  o  mesmo
+conjunto  de  bibliotecas.  Com  isso,  para  um  programador  migrar  de  uma  linguagem  para  outra  ele
+precisaria apenas aprender a linguagem sem se preocupar com as bibliotecas e APIs.
+Além  de  uma  plataforma  a Microsoft também  precisava  de  uma linguagem  de  programação.  
